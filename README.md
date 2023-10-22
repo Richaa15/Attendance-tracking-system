@@ -18,7 +18,7 @@ The biggest issue in the former attendance management system is the accuracy of 
 * Haarcascade OpenCV(Face Detection)
 * LBPH OpenCV(Face Recognition)
 
-### Demo Video : [https://drive.google.com/file/d/1ufRozslIO0-EIbAzWHj9Pu-VlOLcvxHL/view](Demo Video Link)
+### Demo Video : [https://drive.google.com/file/d/1ufRozslIO0-EIbAzWHj9Pu-VlOLcvxHL/view] (Demo Video Link)
 
 ### SnapShots:
 <img width="951" alt="image" src="https://github.com/Richaa15/Attendance-tracking-system/assets/92245354/8126748e-9764-4541-8784-239761f9ea8c">
