@@ -28,14 +28,10 @@ The biggest issue in the former attendance management system is the accuracy of 
 <img width="949" alt="image" src="https://github.com/Richaa15/Attendance-tracking-system/assets/92245354/052a16f6-c922-46d1-b2e9-229154c08738">
 
 
-
-
-
-
 ### Project Features:
 #### 1. Login Security System
 * (Username & Password)
-* 
+  
 #### 2. Homepage
 * Student Management System
 * Train Photo Samples
