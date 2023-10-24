@@ -26,6 +26,8 @@ The biggest issue in the former attendance management system is the accuracy of 
 <img width="951" alt="image" src="https://github.com/Richaa15/Attendance-tracking-system/assets/92245354/fe01d92f-7839-4ced-a1ec-b0324fd9474e">
 <img width="952" alt="image" src="https://github.com/Richaa15/Attendance-tracking-system/assets/92245354/e5c09cb3-b806-47ac-929e-119351b6bda1">
 <img width="949" alt="image" src="https://github.com/Richaa15/Attendance-tracking-system/assets/92245354/052a16f6-c922-46d1-b2e9-229154c08738">
+<img width="955" alt="image" src="https://github.com/Richaa15/Attendance-tracking-system/assets/92245354/1a5bdd00-8129-433d-aac5-547462beb9de">
+
 
 
 ### Project Features:
